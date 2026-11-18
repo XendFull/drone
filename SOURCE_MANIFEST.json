@@ -1,0 +1,485 @@
+{
+  "date": "2026-11-18",
+  "files": [
+    {
+      "path": "cnn.py",
+      "source": "vision project/cnn.py",
+      "sha256": "407b1166b6773d52c242ba3de84b002c55aaee5210be3a82fe7b74a49e6315b3",
+      "notes": []
+    },
+    {
+      "path": "trackinh.py",
+      "source": "vision project/trackinh.py",
+      "sha256": "ee7c93e4d743218ed012b13101874c7128132724a757530b67d0e4d91e11f7ec",
+      "notes": []
+    },
+    {
+      "path": "collect_hard_negatives.py",
+      "source": "vision project/collect_hard_negatives.py",
+      "sha256": "6095d226fff875e259ffee50a5676c5cff4bd766072dcc19d8a529cf716259e5",
+      "notes": [
+        "Replaced 1 machine-specific absolute path(s) with relative placeholders."
+      ]
+    },
+    {
+      "path": "retrain_classifier.py",
+      "source": "vision project/retrain_classifier.py",
+      "sha256": "050e512ced6a04960ba832e1ac1eaf5de9a04741c4456aedcabc7418468db471",
+      "notes": [
+        "Replaced 1 machine-specific absolute path(s) with relative placeholders."
+      ]
+    },
+    {
+      "path": "train_round2.py",
+      "source": "vision project/train_round2.py",
+      "sha256": "59e13251911104219225c877a17a18099f4b61f01702c74c9085bdcaaf230510",
+      "notes": []
+    },
+    {
+      "path": "train_round3.py",
+      "source": "vision project/train_round3.py",
+      "sha256": "c6788a84e50f97e6b8c42c097c2af3551ec9c17248fea63e5475233154ab0988",
+      "notes": []
+    },
+    {
+      "path": "train_glider.py",
+      "source": "vision project/train_glider.py",
+      "sha256": "9b19016ff8ac7c8c2f1341bfd4e397bce4ba6c7e45cc34df26ffc8b420f9164a",
+      "notes": []
+    },
+    {
+      "path": "make_glider_training_data.py",
+      "source": "vision project/make_glider_training_data.py",
+      "sha256": "5508e813186391a4c81750df1edbdded41ee1389b5eacf43b349fee80c913027",
+      "notes": []
+    },
+    {
+      "path": "cnn.ipynb",
+      "source": "vision project/cnn.ipynb",
+      "sha256": "7e3c8d12d9bf6228e4ab7057619b94cad9e22a700826b4a4d005bcbbf83b1c12",
+      "notes": [
+        "Outputs removed; local paths replaced with relative placeholders."
+      ]
+    },
+    {
+      "path": "glider_design/build_glider.py",
+      "source": "vision project/glider_design/build_glider.py",
+      "sha256": "52a8865eeefa7e96966d2a7a73b4c073e7d915b7df69c47199928bb5723f60d7",
+      "notes": []
+    },
+    {
+      "path": "glider_design/prepare_glide350.py",
+      "source": "vision project/glider_design/prepare_glide350.py",
+      "sha256": "cd7ef81ddeaf98b28c6f55a408728f93f91a73747effd4305a8c6a180218ce23",
+      "notes": []
+    },
+    {
+      "path": "glider_design/two_versions/build_two_gliders.py",
+      "source": "vision project/glider_design/two_versions/build_two_gliders.py",
+      "sha256": "a86254fb027518690debdf6435b91818db4d6505b8c7dfa4d8be4096ebb2be20",
+      "notes": []
+    },
+    {
+      "path": "glider_design/two_versions/source/base_glider.py",
+      "source": "vision project/glider_design/two_versions/source/base_glider.py",
+      "sha256": "52a8865eeefa7e96966d2a7a73b4c073e7d915b7df69c47199928bb5723f60d7",
+      "notes": []
+    },
+    {
+      "path": "glider_design/START_HERE.md",
+      "source": "vision project/glider_design/START_HERE.md",
+      "sha256": "84ac8fb65dcc19bb46f8ac44bf35b96790b290762b5767b49033449c73abf611",
+      "notes": []
+    },
+    {
+      "path": "glider_design/two_versions/source/BASE_AIRFRAME_ASSEMBLY.md",
+      "source": "vision project/glider_design/two_versions/source/BASE_AIRFRAME_ASSEMBLY.md",
+      "sha256": "ba8d5ae3860b09e6389ff31dc71f43da7ce9e115a5c1e4d7adde29654fd86af5",
+      "notes": []
+    },
+    {
+      "path": "glider_design/two_versions/Actual/START_HERE.md",
+      "source": "vision project/glider_design/two_versions/Actual/START_HERE.md",
+      "sha256": "867986ae04dcdc676f12b4e11373feb14160c4c4921827d9486ecf1de84124ec",
+      "notes": []
+    },
+    {
+      "path": "glider_design/two_versions/Decoy/START_HERE.md",
+      "source": "vision project/glider_design/two_versions/Decoy/START_HERE.md",
+      "sha256": "7f69507d9694462387281f921092d09e268504242c148f2a53a8fb1ee942d133",
+      "notes": []
+    },
+    {
+      "path": "firmware/ThreeEscTest/README.md",
+      "source": "drone project/outputs/ThreeEscTest/README.md",
+      "sha256": "ffe183e77f9276ec29fbcf7885e3781d6d2d913a1c54641ab5735687f4688c9d",
+      "notes": []
+    },
+    {
+      "path": "firmware/ThreeEscTest/ThreeEscTest.ino",
+      "source": "drone project/outputs/ThreeEscTest/ThreeEscTest.ino",
+      "sha256": "5d80458ceef6f9e56d7dc7d2422952ede4ae4d761d800db43d5b8c7b36ca30dd",
+      "notes": []
+    },
+    {
+      "path": "firmware/FourEscTest/FourEscTest.ino",
+      "source": "drone project/outputs/FourEscTest/FourEscTest.ino",
+      "sha256": "d23bd0d79f7ebefc1ba78edd491478720a6c1274c647a239ae285c99c9b35cc0",
+      "notes": []
+    },
+    {
+      "path": "firmware/FourEscTest/README.md",
+      "source": "drone project/outputs/FourEscTest/README.md",
+      "sha256": "fdfa2885e68da68c4c9dc26a270a469c20cc482c29ff453b1dd25bb2ec0e29d4",
+      "notes": []
+    },
+    {
+      "path": "firmware/Mpu6050Test/Mpu6050Test.ino",
+      "source": "drone project/outputs/Mpu6050Test/Mpu6050Test.ino",
+      "sha256": "ac563e2baf158a51eafde703a53c659fa4b592e018522d4b5c9308d58ffb4817",
+      "notes": []
+    },
+    {
+      "path": "firmware/Mpu6050Calibrated/Mpu6050Calibrated.ino",
+      "source": "drone project/outputs/Mpu6050Calibrated/Mpu6050Calibrated.ino",
+      "sha256": "5f878acf70c09b464049d00bc1aeca5f6b3ffb4682137ec1c68f094802b0f838",
+      "notes": []
+    },
+    {
+      "path": "firmware/Mpu6050Calibrated/README.md",
+      "source": "drone project/outputs/Mpu6050Calibrated/README.md",
+      "sha256": "6989ff7ac5c13e3836f1fabfbc961ebdd9b4bf547c00c8b11374bf8f8158fe33",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeBench/BenchImu.h",
+      "source": "drone project/outputs/StabilizeBench/BenchImu.h",
+      "sha256": "be64a089553863d613309de5e8dc3475344e68e3059687281cc3124a9ee78dbd",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeBench/BenchRecorder.h",
+      "source": "drone project/outputs/StabilizeBench/BenchRecorder.h",
+      "sha256": "f9d7e5095e23b583efba8b43b4d5a5125548f0238c3e9a620284cccbc6974e5e",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeBench/FlightMath.h",
+      "source": "drone project/outputs/StabilizeBench/FlightMath.h",
+      "sha256": "68fb01cf79bd027d1a99016c5e2c0fe4b73ca80760e926b6d96f137996d777d0",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeBench/README.md",
+      "source": "drone project/outputs/StabilizeBench/README.md",
+      "sha256": "35bb3056d9ab7bebc1e422fa9e95638deb69eb4af5bb962ce95ffa28525cde63",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeBench/StabilizeBench.ino",
+      "source": "drone project/outputs/StabilizeBench/StabilizeBench.ino",
+      "sha256": "e0daa676572a64f684661cd0e533a693978e8e7d6cc9d2fa7fa1a6f96653fc69",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNow/BenchImu.h",
+      "source": "drone project/outputs/StabilizeNow/BenchImu.h",
+      "sha256": "be64a089553863d613309de5e8dc3475344e68e3059687281cc3124a9ee78dbd",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNow/ControlSession.h",
+      "source": "drone project/outputs/StabilizeNow/ControlSession.h",
+      "sha256": "802d4706f09cb18a81b3382e6b02a0ee9d12eed8b7a847d36f0aef91058cb759",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNow/FlightMath.h",
+      "source": "drone project/outputs/StabilizeNow/FlightMath.h",
+      "sha256": "dba60c78a58093491b7af0cfea2863154040bc9c131662fab0d5d9baf5255b89",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNow/FlightRecorder.h",
+      "source": "drone project/outputs/StabilizeNow/FlightRecorder.h",
+      "sha256": "7852a80898535c2dff92daa4a8b17b90c71cbb3495f2b93ac1b1611cac7b33fc",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNow/PhoneLink.h",
+      "source": "drone project/outputs/StabilizeNow/PhoneLink.h",
+      "sha256": "14609f6982113e0567e4603e3298d7d664b44b64e3e7fa9841842576b2315e95",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNow/PhonePage.h",
+      "source": "drone project/outputs/StabilizeNow/PhonePage.h",
+      "sha256": "1e2c722e71f08b221a1b0273915e08b55dfebe0c29560f1507e25b1df55026a2",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNow/README.md",
+      "source": "drone project/outputs/StabilizeNow/README.md",
+      "sha256": "4bdab5f6567abdcc27b416f016dd950e345ac002d833d8e0fe130ebc4fbd5d34",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNow/StabilizeNow.ino",
+      "source": "drone project/outputs/StabilizeNow/StabilizeNow.ino",
+      "sha256": "749522d7d291117e7a6979bbeb5073f483af3f560926f8d224793a116ded28a2",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV2/BenchImu.h",
+      "source": "drone project/outputs/StabilizeNowV2/BenchImu.h",
+      "sha256": "be64a089553863d613309de5e8dc3475344e68e3059687281cc3124a9ee78dbd",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV2/ControlSession.h",
+      "source": "drone project/outputs/StabilizeNowV2/ControlSession.h",
+      "sha256": "802d4706f09cb18a81b3382e6b02a0ee9d12eed8b7a847d36f0aef91058cb759",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV2/FlightMath.h",
+      "source": "drone project/outputs/StabilizeNowV2/FlightMath.h",
+      "sha256": "38c253467aa66fe90e28603b4d49efc38b7a5082b6fdfefaeb8b931f691bbf3a",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV2/FlightRecorder.h",
+      "source": "drone project/outputs/StabilizeNowV2/FlightRecorder.h",
+      "sha256": "91c165b9f79d8f1ef1328edd93aa31a743081542ffca3e9d622319f5e12104b7",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV2/PhoneLink.h",
+      "source": "drone project/outputs/StabilizeNowV2/PhoneLink.h",
+      "sha256": "14609f6982113e0567e4603e3298d7d664b44b64e3e7fa9841842576b2315e95",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV2/PhonePage.h",
+      "source": "drone project/outputs/StabilizeNowV2/PhonePage.h",
+      "sha256": "1e2c722e71f08b221a1b0273915e08b55dfebe0c29560f1507e25b1df55026a2",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV2/README.md",
+      "source": "drone project/outputs/StabilizeNowV2/README.md",
+      "sha256": "22a1e5feb421867a09b9be1a331ddd3eeb705920524df2164517fbd8c9055c54",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV2/StabilizeNowV2.ino",
+      "source": "drone project/outputs/StabilizeNowV2/StabilizeNowV2.ino",
+      "sha256": "ce15cd702d3904c6a395a88ceb03dab93c162fe738f66153f622704be5a68f7a",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV2/WobbleSummary.h",
+      "source": "drone project/outputs/StabilizeNowV2/WobbleSummary.h",
+      "sha256": "3ceeb36187cabc9c810c8192f6507569f9f47fa97a5a03a235f0877dd1ee99a2",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV3/BenchImu.h",
+      "source": "drone project/outputs/StabilizeNowV3/BenchImu.h",
+      "sha256": "421fea86fb4bbc72b3ce98da6dbb46f8f0c1d562918a26da66a7e9959c983ce1",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV3/ControlSession.h",
+      "source": "drone project/outputs/StabilizeNowV3/ControlSession.h",
+      "sha256": "802d4706f09cb18a81b3382e6b02a0ee9d12eed8b7a847d36f0aef91058cb759",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV3/FlightMath.h",
+      "source": "drone project/outputs/StabilizeNowV3/FlightMath.h",
+      "sha256": "38c253467aa66fe90e28603b4d49efc38b7a5082b6fdfefaeb8b931f691bbf3a",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV3/FlightRecorder.h",
+      "source": "drone project/outputs/StabilizeNowV3/FlightRecorder.h",
+      "sha256": "5501a9955149f972c1f587dbbb5d72bd8f2dab6abcb5f7c2dd40fd26938051a6",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV3/PhoneLink.h",
+      "source": "drone project/outputs/StabilizeNowV3/PhoneLink.h",
+      "sha256": "14609f6982113e0567e4603e3298d7d664b44b64e3e7fa9841842576b2315e95",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV3/PhonePage.h",
+      "source": "drone project/outputs/StabilizeNowV3/PhonePage.h",
+      "sha256": "1e2c722e71f08b221a1b0273915e08b55dfebe0c29560f1507e25b1df55026a2",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV3/PostStopTrack.h",
+      "source": "drone project/outputs/StabilizeNowV3/PostStopTrack.h",
+      "sha256": "5dac8e957c3f4a72bcf486468920f4fb6ac51f6199eddeeb6f1c55747810c9ec",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV3/README.md",
+      "source": "drone project/outputs/StabilizeNowV3/README.md",
+      "sha256": "69036ee810cdd663e535f73d089749a038bb2c2346f50edd3ed95eb20ed32992",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV3/StabilizeNowV3.ino",
+      "source": "drone project/outputs/StabilizeNowV3/StabilizeNowV3.ino",
+      "sha256": "b92064ddb3218a9ed912b3c91d215c9be65907b028705347d750582119e91f82",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV3/WobbleSummary.h",
+      "source": "drone project/outputs/StabilizeNowV3/WobbleSummary.h",
+      "sha256": "3ceeb36187cabc9c810c8192f6507569f9f47fa97a5a03a235f0877dd1ee99a2",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/AutoCompare.h",
+      "source": "drone project/outputs/StabilizeNowV4/AutoCompare.h",
+      "sha256": "bffd57079a477d6ad2291db8fc930da2258f08a21215a48a7751e7549708ea74",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/BenchBatch.h",
+      "source": "drone project/outputs/StabilizeNowV4/BenchBatch.h",
+      "sha256": "35db9467178f45e4246ad112fafdf0f20fd1575a8e6d05451bef0201acd6b485",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/BenchImu.h",
+      "source": "drone project/outputs/StabilizeNowV4/BenchImu.h",
+      "sha256": "76564c3a7f585ec8481929dfd56e4a340c339e492be3e9eb914cf2da11c0142d",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/ControlSession.h",
+      "source": "drone project/outputs/StabilizeNowV4/ControlSession.h",
+      "sha256": "802d4706f09cb18a81b3382e6b02a0ee9d12eed8b7a847d36f0aef91058cb759",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/FlightMath.h",
+      "source": "drone project/outputs/StabilizeNowV4/FlightMath.h",
+      "sha256": "f08f2c888bbfa5aa448de8b9c4e3be2358d1a65c8c5a966d2a6d0b91774555a2",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/FlightRecorder.h",
+      "source": "drone project/outputs/StabilizeNowV4/FlightRecorder.h",
+      "sha256": "d1176a63fcd45e62c4f4502176e98f54bb6a0fd0e63e353c2c81fcb134b9d567",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/HoldTrace.h",
+      "source": "drone project/outputs/StabilizeNowV4/HoldTrace.h",
+      "sha256": "5107be59ce81389324fdfebb3e46d6016b15b78ea24ac53285535d681d535e9e",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/LevelHold.h",
+      "source": "drone project/outputs/StabilizeNowV4/LevelHold.h",
+      "sha256": "e478d4ab687d2b21249260aac5749edd1b4205fb4c66dc41566da839917ce326",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/PhoneLink.h",
+      "source": "drone project/outputs/StabilizeNowV4/PhoneLink.h",
+      "sha256": "db446ae8014e8e97cf4a0c34e05be07765fbf3d97636fd56640300c297a4f1d2",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/PhonePage.h",
+      "source": "drone project/outputs/StabilizeNowV4/PhonePage.h",
+      "sha256": "1bb3b802a05a7077a959c680f28924384ad6c81fe7effba9a23edd10e6bd7654",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/PostStopTrack.h",
+      "source": "drone project/outputs/StabilizeNowV4/PostStopTrack.h",
+      "sha256": "6e0669edc15b2b3d4fa835fba1c9d5118143dc77d4e5ae719eede8177d4bafb6",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/README.md",
+      "source": "drone project/outputs/StabilizeNowV4/README.md",
+      "sha256": "93ec2a6d02c98f195e4f7862139ea181ecf650b3ec137f3796cb169f03a9f7eb",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/ResponseProbe.h",
+      "source": "drone project/outputs/StabilizeNowV4/ResponseProbe.h",
+      "sha256": "fc7aaca906c09b623d3deb4b114430130a6862a848e90801f55947e2bd8bf036",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/StabilizeNowV4.ino",
+      "source": "drone project/outputs/StabilizeNowV4/StabilizeNowV4.ino",
+      "sha256": "04802ed54a3b7c1cb0c6c8ab3738914001339c50c6199de3b2b3b00263a732ed",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/TEST-RESULTS.md",
+      "source": "drone project/outputs/StabilizeNowV4/TEST-RESULTS.md",
+      "sha256": "4356a7d67dcfcafedf2cfc1c0563c7a5a7263252fa34ec007555daa88d6df5d0",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/TuneSettings.h",
+      "source": "drone project/outputs/StabilizeNowV4/TuneSettings.h",
+      "sha256": "f3d24fd000f9e229cbd66de73fdf78421dbb296836b69a0cae1d2ecf79ae8c35",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/WebBench.h",
+      "source": "drone project/outputs/StabilizeNowV4/WebBench.h",
+      "sha256": "a092574dcf6e3d1606ebe99fb4d6920aa0e99c70f270b6e60e7aa13ae4a3bd91",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/WobbleSummary.h",
+      "source": "drone project/outputs/StabilizeNowV4/WobbleSummary.h",
+      "sha256": "e4eea8257a85a03f3064ed4a74853b94e009e1065c204c5a360de00805f69f89",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/YawTrace.h",
+      "source": "drone project/outputs/StabilizeNowV4/YawTrace.h",
+      "sha256": "2c308a8158b5938540e18c0f6bf78f3330d7f566e4e39c3134e56e805ec806b7",
+      "notes": []
+    },
+    {
+      "path": "firmware/StabilizeNowV4/NetworkConfig.example.h",
+      "source": "prepared for source upload",
+      "sha256": "2b1a78c917421d749ec6463a68b0408b48e4b876616722313d2933cd4aa445fe",
+      "notes": []
+    },
+    {
+      "path": "requirements.txt",
+      "source": "prepared for source upload",
+      "sha256": "6256debe453fb75e9c06ca4f29d846e432d868cf8a2b23a5c228a7d8fc506279",
+      "notes": []
+    },
+    {
+      "path": ".gitignore",
+      "source": "prepared for source upload",
+      "sha256": "dab2991c4e9d45c361b5ec26e0e5c2e58c05fda826418f03a39d2d0737be91a6",
+      "notes": []
+    },
+    {
+      "path": "README.md",
+      "source": "prepared for source upload",
+      "sha256": "8a5951ef8bbac313938520cd72ef308373d3047d86f31eeed6c11e4b40c66dd0",
+      "notes": []
+    }
+  ]
+}
